@@ -1,3 +1,5 @@
+.. causal_testing.generation package
+
 causal\_testing.generation package
 ==================================
 
@@ -12,10 +14,3 @@ causal\_testing.generation.abstract\_causal\_test\_case module
    :undoc-members:
    :show-inheritance:
 
-Module contents
----------------
-
-.. automodule:: causal_testing.generation
-   :members:
-   :undoc-members:
-   :show-inheritance:
