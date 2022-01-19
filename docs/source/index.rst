@@ -9,11 +9,13 @@ Welcome to Causal Testing's documentation!
 Causal testing is a causal inference-driven framework for functional black-box testing. This framework utilises graphical causal inference (CI) techniques for the specification and functional testing of software from a black-box perspective.
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 3
    :caption: Contents:
 
    causal_testing.data_collection
+
    causal_testing.generation
+
    casual_testing.testing
 
 Indices and tables
