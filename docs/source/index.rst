@@ -14,7 +14,7 @@ Causal testing is a causal inference-driven framework for functional black-box t
 
    causal_testing.data_collection
    causal_testing.generation
-
+   casual_testing.testing
 
 Indices and tables
 ==================
