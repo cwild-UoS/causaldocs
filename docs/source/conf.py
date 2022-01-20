@@ -51,5 +51,5 @@ html_theme = 'alabaster'
 html_static_path = ['_static']
 
 autoapi_dirs = [os.path.abspath(os.path.join('..', '..', 'causal_testing'))]
-print('hello')
-print(autoapi_dirs)
+
+master_doc = 'index'
