@@ -55,4 +55,4 @@ html_static_path = ['_static']
 
 autoapi_dirs = [os.path.abspath(os.path.join('..', '..', 'causal_testing'))]
 
-master_doc = 'contents'
+master_doc = 'index'
