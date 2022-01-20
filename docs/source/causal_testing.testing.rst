@@ -1,4 +1,6 @@
 .. causal_testing.testing package
+
+Testing Package
 ===============================
 
 Submodules

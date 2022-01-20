@@ -1,5 +1,6 @@
 .. causal_testing.specification package
 
+Specification Package
 =====================================
 
 Submodules

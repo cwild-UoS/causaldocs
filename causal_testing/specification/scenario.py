@@ -20,8 +20,8 @@ class Scenario:
     :attr constraints:
     """
 
-    variables: {str: Variable}
-    constraints: {ExprRef}
+    #variables: {str: Variable}
+    #constraints: {ExprRef}
 
     def __init__(
         self,

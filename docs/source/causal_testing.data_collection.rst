@@ -1,6 +1,6 @@
 .. causal_testing.data_collection package
 
-Data Collection
+Data Collection Package
 ================
 
 Submodules
