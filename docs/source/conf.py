@@ -51,6 +51,6 @@ html_theme = 'alabaster'
 # so a file named "default.css" will overwrite the builtin "default.css".
 html_static_path = ['_static']
 
-autoapi_dirs = [os.path.abspath(os.path.join('..', '..', 'causal_testing'))]
+#autoapi_dirs = [os.path.abspath(os.path.join('..', '..', 'causal_testing'))]
 
 #master_doc = 'index'
